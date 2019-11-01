@@ -26,23 +26,23 @@ generate a list.
 2.
 Create the below pattern using nested for loop in Python.
 
-*
+## *
 
-* *
+## * *
 
-* * *
+## * * *
 
-* * * *
+## * * * *
 
-* * * * *
+## * * * * *
 
-* * * *
+## * * * *
 
-* * *
+## * * *
 
-* *
+## * *
 
-*
+## *
 
 3.
 Write a Python program to reverse a word after accepting the input from the user.
