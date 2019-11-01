@@ -27,13 +27,21 @@ generate a list.
 Create the below pattern using nested for loop in Python.
 
 *
+
 * *
+
 * * *
+
 * * * *
+
 * * * * *
+
 * * * *
+
 * * *
+
 * *
+
 *
 
 3.
